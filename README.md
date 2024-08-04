@@ -13,9 +13,13 @@
 4. There is so many features in Simple User, you can see all songs list with their Artist Name, Year and Genre,
    you can search songs, you can get recommedation of songs, you can play limited songs.
 
-5. In Play Songs, you have to add song in project folder in .wav format add then copy its file location and paste it in code at the play button.
+5. In Play Songs, you have to add song in project folder in .wav format add then copy its file location
+   and paste it in code at the play button.
 
 6. And there is also a feature of Creating Playlists which is not complete but you can check it out as well.
+
+7. This is the link of the Demonstration Video so if you have any trouble you can check the video:
+   https://youtu.be/NATTkMK6n5A?si=vSf-j6y8fso2fhQF
 
                       *******************************************
                           THANK YOU FOR VISITING MY PROJECT
