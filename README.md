@@ -8,10 +8,10 @@
    delete a user then you will have to enter admin in both username and password to login as Admin.
   
 3. If you want to Login as Simple User then just enter your username and password if you have an
-    account and if you do not have any account then first create an account.
+   account and if you do not have any account then first create an account.
 
-4.There is so many features in Simple User, you can see all songs list with their Artist Name, Year and Genre,
-  you can search songs, you can get recommedation of songs, you can play limited songs.
+4. There is so many features in Simple User, you can see all songs list with their Artist Name, Year and Genre,
+   you can search songs, you can get recommedation of songs, you can play limited songs.
 
 5. In Play Songs, you have to add song in project folder in .wav format add then copy its file location and paste it in code at the play button.
 
