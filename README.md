@@ -1,28 +1,38 @@
-                ******************************************
-                          PROJECT INSTRUCTIONS
-                ******************************************
+# MusicLoud - Music Library Management System
 
-1. This Project has two types of Login System : Admin and Simple User.
+## Project Overview
+MusicLoud is a Java-based Music Library Management System designed to allow users to browse, search, and play songs. The system features two types of user authentication: **Admin** and **Simple User**, each with distinct functionalities.
 
-2. If you want to add a song or edit a song or delete a song or view all users or
-   delete a user then you will have to enter admin in both username and password to login as Admin.
-  
-3. If you want to Login as Simple User then just enter your username and password if you have an
-   account and if you do not have any account then first create an account.
+## Features
+### **Admin Features**
+- Add, edit, or delete songs from the library.
+- View all registered users.
+- Delete user accounts.
 
-4. There is so many features in Simple User, you can see all songs list with their Artist Name, Year and Genre,
-   you can search songs, you can get recommedation of songs, you can play limited songs.
+### **Simple User Features**
+- View the list of available songs, including details such as artist name, release year, and genre.
+- Search for songs by title, artist, or genre.
+- Receive song recommendations based on preferences.
+- Play songs (with limited functionality).
+- Create playlists (feature under development).
 
-5. In Play Songs, you have to add song in project folder in .wav format add then copy its file location
-   and paste it in code at the play button.
+## Getting Started
+### **Login System**
+1. **Admin Login:** Use `admin` as both the username and password to access administrative functionalities.
+2. **Simple User Login:** Enter your registered username and password. If you do not have an account, create one first.
 
-6. And there is also a feature of Creating Playlists which is not complete but you can check it out as well.
+### **Playing Songs**
+- Songs must be added to the project folder in `.wav` format.
+- Copy the file location of the song and paste it into the code at the **Play** button.
 
-7. This is the link of the Demonstration Video so if you have any trouble you can check the video:
-   https://youtu.be/NATTkMK6n5A?si=vSf-j6y8fso2fhQF
+## Demonstration Video
+If you encounter any issues or need guidance, watch the demonstration video:  
+[Watch Here](https://youtu.be/NATTkMK6n5A?si=vSf-j6y8fso2fhQF)
 
-                      *******************************************
-                          THANK YOU FOR VISITING MY PROJECT
-                            And if you love it then Leave
-                          a like and follow on my profile
-                      ******************************************
+## Future Enhancements
+- **Full Playlist Management**: Implementing a fully functional playlist feature.
+- **Improved Song Playback**: Enhancing the song-playing experience.
+- **User Profile Management**: Allowing users to update their details.
+
+## Acknowledgments
+Thank you for visiting my project! If you find it useful, leave a like and follow my profile. 😊
