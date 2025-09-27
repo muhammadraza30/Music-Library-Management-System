@@ -1,5 +1,7 @@
 # MusicLoud - Music Library Management System
 
+## Complete Documentaion [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/muhammadraza30/Music-Library-Management-System) 
+
 ## Project Overview
 MusicLoud is a Java-based Music Library Management System designed to allow users to browse, search, and play songs. The system features two types of user authentication: **Admin** and **Simple User**, each with distinct functionalities.
 
